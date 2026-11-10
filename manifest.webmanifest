@@ -1,0 +1,11 @@
+{
+  "name": "EC-ERC ATC LEDA",
+  "short_name": "ATC EC-ERC",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b111a",
+  "theme_color": "#0b111a",
+  "orientation": "landscape",
+  "description": "Panel de anotaciones ATC para EC-ERC en LEDA"
+}
